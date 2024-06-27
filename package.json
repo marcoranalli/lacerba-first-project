@@ -10,5 +10,8 @@
     "lacerba"
   ],
   "author": "marcoranalli",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/marcoranalli/lacerba-first-project"
+  }
 }
